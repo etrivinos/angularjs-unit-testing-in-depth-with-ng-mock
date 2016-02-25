@@ -1,0 +1,1 @@
+# angularjs-unit-testing-in-depth-with-ng-mock
